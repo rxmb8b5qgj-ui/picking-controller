@@ -1,0 +1,16 @@
+{
+  "name": "Contrôleur picking",
+  "short_name": "Picking",
+  "description": "Commande, scan des références et validations de l'IHM picking (Bluetooth).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#F8FAFC",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
